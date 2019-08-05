@@ -1,3 +1,3 @@
-# DS2019_Week07
+# IES2019_Week14
 
-This repository is for Acquiring Practical Skills of Data Science 2019.
+This repository is for Introduction to Information Environment Science.
